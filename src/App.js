@@ -1,9 +1,9 @@
 import "./App.css";
-import UseStateComp from "./Component/useState";
+import InitialForm from "./Component/useForm";
 function App() {
   return (
     <div className="App">
-      <UseStateComp />
+      <InitialForm/>
     </div>
   );
 }
